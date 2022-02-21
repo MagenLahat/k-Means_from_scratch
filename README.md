@@ -2,4 +2,4 @@
 implementation of k_Means clustering with numpy, WCSS calculation, Using k-means for image quantization
 
 
-![Screenshot](https://github.com/MagenLahat/k-Means_from_scratch/blob/main/K-means.ipynb)
+![Screenshot](https://github.com/MagenLahat/k-Means_from_scratch/blob/main/image%20quantization.png)
